@@ -1,7 +1,7 @@
 <header class="header fixed-top clearfix">
     <!--logo start-->
     <div class="brand">
-        <a href="index.html" class="logo">
+        <a href="index.php" class="logo">
             VISITORS
         </a>
         <div class="sidebar-toggle-box">
@@ -203,7 +203,7 @@
                 <ul class="dropdown-menu extended logout">
                     <li><a href="#"><i class=" fa fa-suitcase"></i>Profile</a></li>
                     <li><a href="#"><i class="fa fa-cog"></i> Settings</a></li>
-                    <li><a href="login.html"><i class="fa fa-key"></i> Log Out</a></li>
+                    <li><a href="login.php"><i class="fa fa-key"></i> Log Out</a></li>
                 </ul>
             </li>
             <!-- user login dropdown end -->
